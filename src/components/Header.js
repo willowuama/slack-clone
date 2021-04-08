@@ -36,6 +36,8 @@ const Container = styled.div`
     align-items: center;
     justify-content: center;
     position: relative;
+    box-shadow: 0 1px 0 0 rgb(255 255 255 / 10%);
+    z-index: 10;
 `
 
 // User Container Style

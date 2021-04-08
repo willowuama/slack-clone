@@ -39,7 +39,6 @@ const Container = styled.div`
   grid-template-rows: 38px auto;
 `
 const Main = styled.div`
-  background: blue;
   display: grid;
   grid-template-columns: 260px auto;
 `
