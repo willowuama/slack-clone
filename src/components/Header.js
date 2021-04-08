@@ -100,6 +100,8 @@ const UserImage = styled.div`
     border: 2px solid white;
     border-radius: 3px;
 
+    cursor: pointer;
+
     img {
         width: 100%;
     }
